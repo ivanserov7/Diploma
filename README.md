@@ -1,7 +1,7 @@
 # Diploma
 Repository with Database and program code for the robo-advising instrument created in the diploma paper
 
-To launch the instrument, You will need an interpreter that reads .ipynb files. The instrument is launched in 3 steps:
+To launch the instrument, You will need an interpreter that reads .ipynb files. The instrument is launched in 5 steps:
 
 1) Download the Excel file
 2) Download and open the Solution code in the interpreter
